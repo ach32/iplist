@@ -1,2 +1,2 @@
-/ip firewall address-list add address=94.230.130.203 comment=ach list=allow-ip
-/ip firewall address-list add address=1.1.1.1 comment=test list=allow-ip
+94.230.130.203
+1.1.1.1
